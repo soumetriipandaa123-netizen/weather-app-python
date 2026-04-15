@@ -4,7 +4,7 @@ A modern weather application built using Python and Tkinter with real-time API d
 ![API](https://img.shields.io/badge/API-OpenWeather-green)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
-![App Screenshot](screenshot.png)
+screenshot.png
 
 
 ##  Features
