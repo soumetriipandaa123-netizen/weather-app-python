@@ -1,6 +1,11 @@
 #  Weather App (Python Tkinter)
-
 A modern weather application built using Python and Tkinter with real-time API data.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![API](https://img.shields.io/badge/API-OpenWeather-green)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
+
+![App Screenshot](screenshot.png)
+
 
 ##  Features
 - Auto-location detection
